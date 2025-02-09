@@ -1,7 +1,6 @@
 # 💫 About Me:
 🚀 Currently focused on logic building in Data Structures & Algorithms (DSA)  
 🌐 Exploring Machine Learning 
-
 💡 Passionate about learning, improving, and solving challenging problems  
 🤝 Open to collaborations and new projects  
 
